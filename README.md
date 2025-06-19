@@ -64,7 +64,6 @@ O desafio tinha como foco utilizar as seguintes tags HTML:
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DIO-EC407A?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
 ---
@@ -72,9 +71,7 @@ O desafio tinha como foco utilizar as seguintes tags HTML:
 ## 👀 Visualização Online
 
 ✅ Link de visualização do projeto:  
-👉 [Clique aqui para ver o site publicado](https://seuusuario.github.io/seuprojeto/)  
-
----
+👉 [Clique aqui para ver o site publicado](https://carolineyasmim.github.io/PuroHTML/) 0
 
 ## 📸 Galeria de Certificados
 
