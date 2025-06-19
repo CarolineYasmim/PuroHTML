@@ -71,7 +71,7 @@ O desafio tinha como foco utilizar as seguintes tags HTML:
 ## 👀 Visualização Online
 
 ✅ Link de visualização do projeto:  
-👉 [Clique aqui para ver o site publicado](https://carolineyasmim.github.io/PuroHTML/) 0
+👉 [Clique aqui para ver o site publicado](https://carolineyasmim.github.io/PuroHTML/) 
 
 ## 📸 Galeria de Certificados
 
